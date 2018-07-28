@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="bf9298b5a22c40bc963fc5bb099053d2" Name="Diagram1" ZoomLevel="82">
+        <EntityTypeShape EntityType="HPWoodModel.Brand" Width="1.5" PointX="5.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HPWoodModel.Claim" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HPWoodModel.Client" Width="1.5" PointX="8.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HPWoodModel.Enquiry" Width="1.5" PointX="10.25" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HPWoodModel.Login" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="HPWoodModel.ProductMain" Width="1.5" PointX="8" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HPWoodModel.ProductType" Width="1.5" PointX="5.75" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HPWoodModel.Role" Width="1.5" PointX="6" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HPWoodModel.RoleEntity" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HPWoodModel.User" Width="1.5" PointX="0.75" PointY="3.25" IsExpanded="true" />
+        <AssociationConnector Association="HPWoodModel.FK_ProductMain_Brand" ManuallyRouted="false" />
+        <AssociationConnector Association="HPWoodModel.FK_Claim_User" ManuallyRouted="false" />
+        <AssociationConnector Association="HPWoodModel.FK_Enquiry_ProductMain" ManuallyRouted="false" />
+        <AssociationConnector Association="HPWoodModel.FK_Login_User" ManuallyRouted="false" />
+        <AssociationConnector Association="HPWoodModel.FK_ProductMain_ProductType" ManuallyRouted="false" />
+        <AssociationConnector Association="HPWoodModel.FK_Role_RoleEntity" ManuallyRouted="false" />
+        <AssociationConnector Association="HPWoodModel.FK_Role_User" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

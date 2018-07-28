@@ -1,0 +1,112 @@
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\Repository.EF6.dll.config
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\Repository.EF6.dll
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\Repository.EF6.pdb
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\EntityFramework.dll
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.dll
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\LinqKit.dll
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\Repository.Pattern.pdb
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll.config
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\EntityFramework.xml
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.xml
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\LinqKit.xml
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\obj\Debug\Repository.EF6.csprojResolveAssemblyReference.cache
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\obj\Debug\Repository.EF6.csproj.CoreCompileInputs.cache
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\obj\Debug\Repository.EF6.dll
+E:\110.34.24.194\HRMS-Angular\Repository.EF6\obj\Debug\Repository.EF6.pdb
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\Repository.EF6.dll.config
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\Repository.EF6.dll
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\Repository.EF6.pdb
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\EntityFramework.dll
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.dll
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\LinqKit.dll
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\Repository.Pattern.pdb
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll.config
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\EntityFramework.xml
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.xml
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\LinqKit.xml
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\obj\Debug\Repository.EF6.csprojResolveAssemblyReference.cache
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\obj\Debug\Repository.EF6.dll
+F:\!!!!\HRMS\HRMS-Angular\Repository.EF6\obj\Debug\Repository.EF6.pdb
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.EF6.dll.config
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.EF6.dll
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.EF6.pdb
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\EntityFramework.dll
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\LinqKit.dll
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.Pattern.pdb
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll.config
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\EntityFramework.xml
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\LinqKit.xml
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\obj\Debug\Repository.EF6.csprojResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\obj\Debug\Repository.EF6.dll
+C:\Users\Acer\documents\visual studio 2017\Projects\SubisuSubscription_Angular\Repository.EF6\obj\Debug\Repository.EF6.pdb
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.EF6.dll.config
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.EF6.dll
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.EF6.pdb
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\EntityFramework.dll
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\LinqKit.dll
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.Pattern.pdb
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll.config
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\EntityFramework.xml
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\LinqKit.xml
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\obj\Debug\Repository.EF6.csprojResolveAssemblyReference.cache
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\obj\Debug\Repository.EF6.csproj.CoreCompileInputs.cache
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\obj\Debug\Repository.EF6.dll
+E:\New folder\SubisuSubscription_Angular\Repository.EF6\obj\Debug\Repository.EF6.pdb
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.EF6.dll.config
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.EF6.dll
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.EF6.pdb
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\EntityFramework.dll
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.dll
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\LinqKit.dll
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.Pattern.pdb
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll.config
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\EntityFramework.xml
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.xml
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\LinqKit.xml
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\obj\Debug\Repository.EF6.csprojResolveAssemblyReference.cache
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\obj\Debug\Repository.EF6.csproj.CoreCompileInputs.cache
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\obj\Debug\Repository.EF6.dll
+F:\Angular Project\angular final codes\SubisuSubscription_Angular\Repository.EF6\obj\Debug\Repository.EF6.pdb
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\Repository.EF6.dll.config
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\Repository.EF6.dll
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\Repository.EF6.pdb
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\EntityFramework.dll
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\LinqKit.dll
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\Repository.Pattern.pdb
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll.config
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\EntityFramework.xml
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\LinqKit.xml
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\obj\Debug\Repository.EF6.csprojResolveAssemblyReference.cache
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\obj\Debug\Repository.EF6.csproj.CoreCompileInputs.cache
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\obj\Debug\Repository.EF6.dll
+C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\obj\Debug\Repository.EF6.pdb

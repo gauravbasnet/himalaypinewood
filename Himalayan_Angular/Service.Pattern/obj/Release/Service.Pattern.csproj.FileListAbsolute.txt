@@ -1,0 +1,14 @@
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\bin\Release\Service.Pattern.dll.config
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\bin\Release\Service.Pattern.dll
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\bin\Release\Service.Pattern.pdb
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\bin\Release\EntityFramework.dll
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\bin\Release\Repository.Pattern.dll
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\bin\Release\Repository.Pattern.pdb
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\bin\Release\Repository.Pattern.dll.config
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\bin\Release\EntityFramework.xml
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\obj\Release\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\obj\Release\Service.Pattern.csproj.CoreCompileInputs.cache
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\obj\Release\Service.Pattern.dll
+C:\Users\gaurav\source\Workspaces\Workspace\HRRecruitement\RMS_Angular\Service.Pattern\obj\Release\Service.Pattern.pdb

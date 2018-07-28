@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{64686C01-8896-4B0D-8228-1DF6D05EE163}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Himalayan_Angular.Data</RootNamespace>
+    <AssemblyName>Himalayan_Angular.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.2.2\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.EntityFramework, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.EntityFramework.2.2.2\lib\net45\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractClass\Identity.cs" />
+    <Compile Include="Brand.cs">
+      <DependentUpon>Himalayan_AngularEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Claim.cs">
+      <DependentUpon>Himalayan_AngularEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Client.cs">
+      <DependentUpon>Himalayan_AngularEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Context\Himalayan_AngularEntities.cs" />
+    <Compile Include="Enquiry.cs">
+      <DependentUpon>Himalayan_AngularEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Himalayan_AngularEntities.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Himalayan_AngularEntities.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Himalayan_AngularEntities.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Himalayan_AngularEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Himalayan_AngularEntities.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Himalayan_AngularEntities.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <DependentUpon>Himalayan_AngularEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Brand.cs" />
+    <Compile Include="Model\Claim.cs" />
+    <Compile Include="Model\Clients.cs" />
+    <Compile Include="Model\Enquiry.cs" />
+    <Compile Include="Model\Login.cs" />
+    <Compile Include="Model\ProductMain.cs" />
+    <Compile Include="Model\ProductType.cs" />
+    <Compile Include="Model\RoleEntity.cs" />
+    <Compile Include="Model\Roles.cs" />
+    <Compile Include="Model\Users.cs" />
+    <Compile Include="ProductMain.cs">
+      <DependentUpon>Himalayan_AngularEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProductType.cs">
+      <DependentUpon>Himalayan_AngularEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Role.cs">
+      <DependentUpon>Himalayan_AngularEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RoleEntity.cs">
+      <DependentUpon>Himalayan_AngularEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Stores\EntityStores.cs" />
+    <Compile Include="Stores\UserStore.cs" />
+    <Compile Include="User.cs">
+      <DependentUpon>Himalayan_AngularEntities.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="Himalayan_AngularEntities.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Himalayan_AngularEntities.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="App.Config" />
+    <None Include="Himalayan_AngularEntities.edmx.diagram">
+      <DependentUpon>Himalayan_AngularEntities.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Repository.EF6\Repository.EF6.csproj">
+      <Project>{dbde082d-b6dc-44de-a5c8-ecf995679f5f}</Project>
+      <Name>Repository.EF6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repository.Pattern\Repository.Pattern.csproj">
+      <Project>{b3e1993e-5869-4a6f-9fc8-3c614940e81c}</Project>
+      <Name>Repository.Pattern</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Himalayan_AngularEntities.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Himalayan_AngularEntities.edmx</DependentUpon>
+      <LastGenOutput>Himalayan_AngularEntities.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Himalayan_AngularEntities.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Himalayan_AngularEntities.edmx</DependentUpon>
+      <LastGenOutput>Himalayan_AngularEntities.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
