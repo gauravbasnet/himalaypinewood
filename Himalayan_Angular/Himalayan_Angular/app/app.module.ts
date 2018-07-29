@@ -5,7 +5,7 @@ import { Route, RouterModule } from '@angular/router';
 import { AppComponent } from './app.component';
 import { PublicComponent } from './component/public/public'
 
-
+//ok
 const routePath: Route[] = [
 
     {
