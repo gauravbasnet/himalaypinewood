@@ -112,3 +112,22 @@ C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.Pattern\obj\Debug\Repo
 C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.Pattern\obj\Debug\Repository.Pattern.csproj.CoreCompileInputs.cache
 C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.Pattern\obj\Debug\Repository.Pattern.dll
 C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.Pattern\obj\Debug\Repository.Pattern.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\EntityFramework.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\EntityFramework.SqlServer.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\Newtonsoft.Json.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\System.Net.Http.Formatting.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\System.Web.Http.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\System.Web.Http.WebHost.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\EntityFramework.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\EntityFramework.SqlServer.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\Newtonsoft.Json.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\System.Net.Http.Formatting.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\System.Web.Http.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\bin\Debug\System.Web.Http.WebHost.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\obj\Debug\Repository.Pattern.csprojResolveAssemblyReference.cache
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\obj\Debug\Repository.Pattern.csproj.CoreCompileInputs.cache
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.Pattern\obj\Debug\Repository.Pattern.pdb

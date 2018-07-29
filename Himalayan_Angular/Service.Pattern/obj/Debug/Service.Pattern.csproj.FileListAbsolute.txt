@@ -82,3 +82,17 @@ C:\Users\gaurav\source\repos\Himalayan_Angular\Service.Pattern\obj\Debug\Service
 C:\Users\gaurav\source\repos\Himalayan_Angular\Service.Pattern\obj\Debug\Service.Pattern.csproj.CoreCompileInputs.cache
 C:\Users\gaurav\source\repos\Himalayan_Angular\Service.Pattern\obj\Debug\Service.Pattern.dll
 C:\Users\gaurav\source\repos\Himalayan_Angular\Service.Pattern\obj\Debug\Service.Pattern.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\bin\Debug\Service.Pattern.dll.config
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\bin\Debug\Service.Pattern.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\bin\Debug\Service.Pattern.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\bin\Debug\EntityFramework.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\bin\Debug\EntityFramework.SqlServer.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\bin\Debug\Repository.Pattern.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\bin\Debug\Repository.Pattern.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\bin\Debug\Repository.Pattern.dll.config
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\bin\Debug\EntityFramework.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\bin\Debug\EntityFramework.SqlServer.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\obj\Debug\Service.Pattern.csproj.CoreCompileInputs.cache
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\obj\Debug\Service.Pattern.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Service.Pattern\obj\Debug\Service.Pattern.pdb

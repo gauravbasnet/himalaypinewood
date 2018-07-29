@@ -11,10 +11,13 @@ var platform_browser_1 = require("@angular/platform-browser");
 var router_1 = require("@angular/router");
 var app_component_1 = require("./app.component");
 var public_1 = require("./component/public/public");
+var admin_component_1 = require("./component/admin/admin.component");
+//ok
 var routePath = [
     {
         path: '', component: public_1.PublicComponent
-    }
+    },
+    { path: 'admin', component: admin_component_1.AdminComponent }
 ];
 var AppModule = /** @class */ (function () {
     function AppModule() {
@@ -26,7 +29,8 @@ var AppModule = /** @class */ (function () {
             ],
             declarations: [
                 app_component_1.AppComponent,
-                public_1.PublicComponent
+                public_1.PublicComponent,
+                admin_component_1.AdminComponent
             ],
             bootstrap: [app_component_1.AppComponent]
         })

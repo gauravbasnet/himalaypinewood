@@ -24,3 +24,29 @@ C:\Users\gaurav\source\repos\Himalayan_Angular\Himalayan_Angular.Data\obj\Debug\
 C:\Users\gaurav\source\repos\Himalayan_Angular\Himalayan_Angular.Data\obj\Debug\Himalayan_Angular.Data.csproj.CoreCompileInputs.cache
 C:\Users\gaurav\source\repos\Himalayan_Angular\Himalayan_Angular.Data\obj\Debug\Himalayan_Angular.Data.dll
 C:\Users\gaurav\source\repos\Himalayan_Angular\Himalayan_Angular.Data\obj\Debug\Himalayan_Angular.Data.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Himalayan_Angular.Data.dll.config
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Himalayan_Angular.Data.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Himalayan_Angular.Data.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\EntityFramework.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Repository.EF6.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Repository.Pattern.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\LinqKit.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Repository.EF6.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Repository.EF6.dll.config
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Repository.Pattern.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Repository.Pattern.dll.config
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\EntityFramework.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\LinqKit.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\obj\Debug\Himalayan_Angular.Data.csprojResolveAssemblyReference.cache
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\obj\Debug\Himalayan_Angular.Data.csproj.CoreCompileInputs.cache
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\obj\Debug\Himalayan_Angular.Data.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Himalayan_Angular.Data\obj\Debug\Himalayan_Angular.Data.pdb

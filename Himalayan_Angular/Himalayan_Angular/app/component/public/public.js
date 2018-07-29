@@ -18,6 +18,7 @@ var PublicComponent = /** @class */ (function () {
             selector: 'public-component',
             templateUrl: 'public.component.html',
             moduleId: module.id
+            //not ok
         }),
         __metadata("design:paramtypes", [])
     ], PublicComponent);

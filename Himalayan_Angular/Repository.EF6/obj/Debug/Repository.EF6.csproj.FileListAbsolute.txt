@@ -110,3 +110,22 @@ C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\obj\Debug\Reposito
 C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\obj\Debug\Repository.EF6.csproj.CoreCompileInputs.cache
 C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\obj\Debug\Repository.EF6.dll
 C:\Users\gaurav\source\repos\Himalayan_Angular\Repository.EF6\obj\Debug\Repository.EF6.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\Repository.EF6.dll.config
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\Repository.EF6.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\Repository.EF6.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\EntityFramework.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\LinqKit.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\Repository.Pattern.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\Repository.Pattern.dll.config
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\EntityFramework.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\EntityFramework.SqlServer.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\LinqKit.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\obj\Debug\Repository.EF6.csprojResolveAssemblyReference.cache
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\obj\Debug\Repository.EF6.csproj.CoreCompileInputs.cache
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\obj\Debug\Repository.EF6.dll
+F:\Github\New folder\himalaypinewood\Himalayan_Angular\Repository.EF6\obj\Debug\Repository.EF6.pdb
