@@ -3,8 +3,9 @@ import { BrowserModule } from '@angular/platform-browser';
 import { Route, RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
-import { PublicComponent } from './component/public/public'
-import { AdminComponent } from './component/admin/admin.component'
+import { PublicComponent } from './component/public/public';
+import { AdminComponent } from './component/admin/admin.component';
+import { DashboardComponent } from './component/admin/dashboard/dashboard.component'
 
 
 //ok
@@ -13,7 +14,13 @@ const routePath: Route[] = [
     {
         path: '', component: PublicComponent
     },
-    { path: 'admin', component: AdminComponent }
+    {
+        path: 'admin', component: AdminComponent,
+        children: [
+            { path: 'dashboard', component: DashboardComponent }
+        ]
+    }
+   
 ]
 
 @NgModule({
@@ -23,7 +30,8 @@ const routePath: Route[] = [
   declarations: [
       AppComponent,
       PublicComponent,
-      AdminComponent
+      AdminComponent,
+      DashboardComponent
   ],
 
 

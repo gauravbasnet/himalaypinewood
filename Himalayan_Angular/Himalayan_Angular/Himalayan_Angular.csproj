@@ -206,6 +206,7 @@
     <Content Include="app\app.component.css" />
     <Content Include="app\app.component.html" />
     <Content Include="app\component\admin\admin.component.html" />
+    <Content Include="app\component\admin\dashboard\dashboard.component.html" />
     <Content Include="app\component\public\public.component.html" />
     <Content Include="Contents\bootstrap.css" />
     <Content Include="Contents\img\aranciaLogo.png" />
@@ -272,6 +273,7 @@
     <TypeScriptCompile Include="app\app.component.ts" />
     <TypeScriptCompile Include="app\app.module.ts" />
     <TypeScriptCompile Include="app\component\admin\admin.component.ts" />
+    <TypeScriptCompile Include="app\component\admin\dashboard\dashboard.component.ts" />
     <TypeScriptCompile Include="app\component\public\public.ts" />
     <TypeScriptCompile Include="app\main.ts" />
     <TypeScriptCompile Include="app\model\model.ts" />

@@ -4,3 +4,6 @@ Himalayan_Angular/.vs/Himalayan_Angular/v15/Server/sqlite3/storage.ide
 Himalayan_Angular/.vs/Himalayan_Angular/v15/.suo
 *.ide-shm
 Himalayan_Angular/Himalayan_Angular/Himalayan_Angular.csproj.user
+*.config
+*.cache
+Himalayan_Angular/Service.Pattern/obj/Debug/Service.Pattern.csproj.CoreCompileInputs.cache
